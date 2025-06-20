@@ -35,7 +35,7 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://witchit.github.io/Quadriga_OER_WS
+  url: https://github.com/witchIT/Quadriga_OER_WS
   # https://github.com/quadriga-dk/OER-Workshop-Template # Online location of your book
   # path_to_book: book  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
